@@ -21,6 +21,7 @@ export default function CardDetail({ }) {
             <center>
                 <div className="my-8">
                     <CardProduct
+                    
                         Id={cardItem.Id}
                         Titla={cardItem.Title}
                         Cover={cardItem.Cover}
